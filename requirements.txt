@@ -1,0 +1,9 @@
+psycopg2-binary==2.9.9
+PyMySQL==1.1.1
+SQLAlchemy==2.0.35
+alembic==1.13.3
+redis==5.0.8
+python-dotenv==1.0.1
+faker==28.4.1
+rich==13.8.1
+tabulate==0.9.0
